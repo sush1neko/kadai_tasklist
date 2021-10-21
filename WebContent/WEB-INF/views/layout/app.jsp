@@ -14,7 +14,6 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Aika Horikawa
             </div>
         </div>
     </body>
